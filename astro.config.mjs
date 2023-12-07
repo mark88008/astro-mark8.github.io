@@ -5,6 +5,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://astro-mark8.github.io/',
+	site: 'https://mark88008.github.io/astro-mark8.github.io/',
 	integrations: [mdx(), sitemap()],
 });
